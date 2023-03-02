@@ -1,4 +1,4 @@
-package unitTestingGolang
+package calc
 
 func Add(number, number2 int)int{
 	return number + number2;

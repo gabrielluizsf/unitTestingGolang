@@ -1,4 +1,4 @@
-package unitTestingGolang
+package calc
 
 import "testing"
 /**
